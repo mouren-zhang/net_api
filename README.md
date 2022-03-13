@@ -7,7 +7,7 @@
 | 序号 | 名称 | 来源 | 接口 | 方式 | 类型 | 详细说明 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 历史上的今天 | ipip5 | http://www.ipip5.com/today/api.php | get | 无条件 | --- |
-| 2 | 一言 | hitokoto | https://v1.hitokoto.cn/ | get | 无条件 | [详情](无条件的/一言开发者中心.md) |
+| 2 | 一言 | hitokoto | https://v1.hitokoto.cn/ | get | 无条件 | [详情](无条件的/hitokoto.md) |
 | 3 | 一言 | 今日诗词 | https://www.jinrishici.com/ | get | 无条件 | 详细说明 |
 | 4 | 名称 | 来源 | 接口 | 方式 | 类型 | 详细说明 |
 | 5 | 名称 | 来源 | 接口 | 方式 | 类型 | 详细说明 |
